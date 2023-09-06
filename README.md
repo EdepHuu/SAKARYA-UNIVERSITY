@@ -4,4 +4,4 @@ Bu GitHub deposunda, Sakarya Üniversitesi Bilgisayar Mühendisliği Bölümünd
 
 This GitHub repository includes: Programming assignments given in the courses I took at between 2021-2025 years Sakarya University Computer Engineering Department and the studies I did for these assignments.
 
-Not: Her Ders dosyası içerisinde o ödevde veya projede istenilenlerin yazdığı dökümanda bulunmaktadır.
+Not: Her Ders dosyası içerisinde o ödevde veya projede istenilenlerin yazıldığı dökümanda bulunmaktadır.
