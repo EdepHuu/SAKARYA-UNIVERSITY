@@ -1,0 +1,3 @@
+﻿  pgprojedenemeson.cpp
+C:\Users\METEHAN\source\repos\pgprojedenemeson\pgprojedenemeson.cpp(41,15): warning C4101: 'Yeni_Stok_Adedi': yerel değişken başvurusu kaldırıldı
+  pgprojedenemeson.vcxproj -> C:\Users\METEHAN\source\repos\pgprojedenemeson\Debug\pgprojedenemeson.exe

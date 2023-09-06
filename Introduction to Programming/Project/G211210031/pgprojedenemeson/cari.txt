@@ -1,0 +1,6 @@
+
+100 MetehanFirma 551131 Metehan ozel Bursa
+101 Teknopat 551189 Basak genel Sakarya
+102 DonanimArsivi 551190 Selin ozel Kutahya
+103 VatanBilgisayar 551191 Meltem genel Izmir
+104 Teknosa 551192 Mehmet genel Kutahya
