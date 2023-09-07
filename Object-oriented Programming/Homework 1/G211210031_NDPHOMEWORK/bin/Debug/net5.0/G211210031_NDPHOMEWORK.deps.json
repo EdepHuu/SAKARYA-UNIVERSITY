@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "G211210031_NDPHOMEWORK/1.0.0": {
+        "runtime": {
+          "G211210031_NDPHOMEWORK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "G211210031_NDPHOMEWORK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

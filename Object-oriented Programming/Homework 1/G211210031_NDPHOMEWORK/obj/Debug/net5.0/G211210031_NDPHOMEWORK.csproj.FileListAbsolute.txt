@@ -1,0 +1,16 @@
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\bin\Debug\net5.0\G211210031_NDPHOMEWORK.exe
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\bin\Debug\net5.0\G211210031_NDPHOMEWORK.deps.json
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\bin\Debug\net5.0\G211210031_NDPHOMEWORK.runtimeconfig.json
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\bin\Debug\net5.0\G211210031_NDPHOMEWORK.runtimeconfig.dev.json
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\bin\Debug\net5.0\G211210031_NDPHOMEWORK.dll
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\bin\Debug\net5.0\ref\G211210031_NDPHOMEWORK.dll
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\bin\Debug\net5.0\G211210031_NDPHOMEWORK.pdb
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\obj\Debug\net5.0\G211210031_NDPHOMEWORK.csproj.AssemblyReference.cache
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\obj\Debug\net5.0\G211210031_NDPHOMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\obj\Debug\net5.0\G211210031_NDPHOMEWORK.AssemblyInfoInputs.cache
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\obj\Debug\net5.0\G211210031_NDPHOMEWORK.AssemblyInfo.cs
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\obj\Debug\net5.0\G211210031_NDPHOMEWORK.csproj.CoreCompileInputs.cache
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\obj\Debug\net5.0\G211210031_NDPHOMEWORK.dll
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\obj\Debug\net5.0\ref\G211210031_NDPHOMEWORK.dll
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\obj\Debug\net5.0\G211210031_NDPHOMEWORK.pdb
+C:\Users\METEHAN\source\repos\G211210031_NDPHOMEWORK\obj\Debug\net5.0\G211210031_NDPHOMEWORK.genruntimeconfig.cache
