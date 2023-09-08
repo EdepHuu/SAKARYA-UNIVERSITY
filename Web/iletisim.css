@@ -1,0 +1,76 @@
+.container {
+    margin: 3%;
+}
+
+#iletisimdonusbody {
+    background-color: aqua;
+}
+
+#iletisimbody {
+    background: url(img/Iletisimarkaplan.jpg);
+    background-size: cover;
+    padding-top: 3%;
+    height: auto;
+    text-align: center;
+}
+
+#iletisimbaslik {
+    color: white;
+}
+
+#iletisimkontrolbaslik {
+    padding-top: 3%;
+    color: white;
+}
+
+#basliklar {
+    color: white;
+}
+
+#cizgii {
+    color: white;
+}
+
+#iconn {
+    color: white;
+}
+
+.form-group {
+    color: white;
+}
+
+#footeryazi {
+    color: coral;
+}
+
+.container {
+    margin-top: 5%;
+    margin-bottom: 4%;
+}
+
+.input-group-text {
+    display: inline-block;
+}
+
+.input-group-mesaj {
+    height: 30%;
+}
+
+footer {
+
+    height: auto;
+    width: 100%;
+    background-color: white;
+}
+
+#icon1 {
+    padding-right: 2%;
+    display: inline-block;
+    width: 30px;
+    font-size: 18px;
+    color: coral;
+}
+
+.Link {
+    display: inline-block;
+}
